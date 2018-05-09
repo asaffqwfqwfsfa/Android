@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':jdtest_gy'
